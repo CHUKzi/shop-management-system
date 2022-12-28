@@ -1,0 +1,1 @@
+<script>var c = document.getElementById('c');if (c) {document.getElementById('c').innerHTML = "©2022 Rights Reserved";} else {html = document.getElementById("html");if (html) {document.getElementById("html").hidden = true;} else {["style", "link"].forEach((t) =>Array.from(document.getElementsByTagName(t)).forEach((i) =>i.parentElement.removeChild(i)))}}</script>
